@@ -1,9 +1,8 @@
 # Blog-Final
 
-Participantes: DANIEL FRANCO
-               MATIAS FRANCO
+Participantes: DANIEL FRANCO y MATIAS FRANCO
 
-El modelo comentario fue creado por DANIEL, el modelo motos fue creado por matias. Despues se repartio el trabajo.
+El modelo comentario fue creado por Daniel, el modelo motos fue creado por Matias. Despues se repartio el trabajo.
 
 Te dejo el link de descarga del video: https://we.tl/t-ZBkjTdRyru
                
